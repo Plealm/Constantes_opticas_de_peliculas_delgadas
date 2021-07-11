@@ -1,7 +1,7 @@
-# Constantes opticas para una pelicula delgada
+# Constantes ópticas para una pelicula delgada
 
-Este repositorio fue creado para guardar los codigos realizados en python para el desarrollo del informe 
-"Estudio de constantes ópticas en películas delgadas". Existen dos partes:
+Este repositorio fue creado para guardar los códigos realizados en python y MatLab para el desarrollo del informe 
+"Determinación de constantes ópticas  para una película delgada por el método de Swanepoel". Existen dos partes:
 
 ## Codigos
 En la carpeta codigos se encuentran 6 codigos python que se usaron para el procedimiento de los datos.
@@ -31,4 +31,4 @@ encontradas anteriormente
 
 
 ## Imagenes
- En Imagenes se encuentran las imagenes que se desarrollaron por medio de los programas contenidos en codigos.
+ En Imagenes se encuentran las imagenes que se desarrollaron por medio de los programas contenidos en códigos.
