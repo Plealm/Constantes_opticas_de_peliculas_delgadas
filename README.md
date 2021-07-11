@@ -3,7 +3,7 @@
 Este repositorio fue creado para guardar los códigos realizados en python y MatLab para el desarrollo del informe 
 "Determinación de constantes ópticas  para una película delgada por el método de Swanepoel". Existen dos partes:
 
-## Codigos
+## Códigos
 En la carpeta codigos se encuentran 6 codigos python que se usaron para el procedimiento de los datos.
 
 1.1  datos.py En este programa se toman los datos que fueron dados por el profesor y se encuentran los maximos 
