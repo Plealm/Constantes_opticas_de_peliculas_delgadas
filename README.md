@@ -22,7 +22,7 @@ encontradas anteriormente
 
 1.6 Tauc.py se usa para calcular la energía de banda por el método de diagrama de Tauc
 
-1.7 espectro.m es el código de MatLab empleado para hallar las envolventes del espectro de transmisión de la película delgada, además que determina los valores máximos y mínimos locales de dicho espectro, i.e., los T_M y T_m, resoectivamente.
+1.7 espectro.m es el código de MatLab empleado para hallar las envolventes del espectro de transmisión de la película delgada, además que determina los valores máximos y mínimos locales de dicho espectro, i.e., los T_M y T_m que fueron usados en el informe y en el cálculo de las demás constantes ópticas.
 
 1.8 wavelenht.data es un array de los datos de longitud de onda proporcionados, los cuales son usados en el código anterior.
 
